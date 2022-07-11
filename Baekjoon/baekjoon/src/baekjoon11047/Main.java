@@ -1,7 +1,6 @@
 package baekjoon11047;
 
 import java.util.Scanner;
-
 /**
  * 맞았습니다!
  */
