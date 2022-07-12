@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59ddcf6b-4121-4a45-8031-aa412516f2a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon11047/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon13305/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/out/production/untitled/baekjoon11047/CoinGreedy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/src/baekjoon11047/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/src/baekjoon13305/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/baekjoon11047/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoon/baekjoon11047/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/baekjoon/baekjoon13305/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baekjoon/baekjoon13305/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon13305/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon13305/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon13305.Main" />
@@ -87,7 +74,12 @@
       <workItem from="1657507239331" duration="1034000" />
       <workItem from="1657508370969" duration="399000" />
       <workItem from="1657509094333" duration="120000" />
-      <workItem from="1657509239391" duration="2498000" />
+      <workItem from="1657509239391" duration="2683000" />
+      <workItem from="1657515878720" duration="1133000" />
+      <workItem from="1657526131302" duration="42000" />
+      <workItem from="1657585986249" duration="480000" />
+      <workItem from="1657587974136" duration="4000" />
+      <workItem from="1657587989158" duration="30000" />
     </task>
     <servers />
   </component>

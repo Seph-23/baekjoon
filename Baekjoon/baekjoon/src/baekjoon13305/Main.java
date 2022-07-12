@@ -14,16 +14,21 @@ public class Main {
         //시작할때의 기름은 0이다.
         int totalPrice = 0;
         int gas = 0;
+        int currentMoved = 0;
 
+        //최종거리 구하기
+        int totalDistance = 0;
+        for (int i = 0; i < distance.length; i++) {
+            totalDistance += distance[i];
+        }
+
+        //sortedPrice map create
         int[] sortedPrice = new int[price.length-1];
-
         for (int i = 0; i < price.length - 1; i++) {
             sortedPrice[i] = price[i];
         }
-
         Arrays.sort(sortedPrice);
-        Map<Integer, Integer> map = new HashMap<>();    //가스 가격 순서대로 저장. key = 가격, value = 가격 오름차순위
-
+        Map<Integer, Integer> map = new HashMap<>();    //가스 가격 순서대로 저장. key = 가격, value = 가격 오름차순위.
         for (int i = 0; i < sortedPrice.length; i++) {
             map.put(sortedPrice[i], i);
         }
@@ -36,6 +41,7 @@ public class Main {
                 }
             }
             gas -= distance[i];
+            currentMoved += distance[i];
         }
         System.out.println(totalPrice);
     }
